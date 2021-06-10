@@ -75,4 +75,4 @@ while not found:
     except:
         pass
 
-option_chain("BANKNIFTY", "OPTIDX")
+#option_chain("BANKNIFTY", "OPTIDX")
